@@ -1,0 +1,516 @@
+2022-03-18T00:00:32.6121299+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-18T00:00:32.6210894+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-18T00:00:32.6212782+05:30  [INF] Content root path: "D:\CsharpCG\Library\Library" (b5d60022)
+2022-03-18T00:00:32.6434348+05:30 8000000f-0000-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/index.html - - (ca22a1cb)
+2022-03-18T00:00:33.0921051+05:30 8000000f-0000-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/index.html - - - 200 - text/html;charset=utf-8 453.4482ms (791a596a)
+2022-03-18T00:00:33.1831051+05:30 80000020-0002-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-03-18T00:00:33.2322603+05:30 80000020-0002-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - - 200 11972 application/javascript;+charset=utf-8 48.9385ms (791a596a)
+2022-03-18T00:00:33.6764885+05:30 80000011-0000-fe00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - (ca22a1cb)
+2022-03-18T00:00:33.9615860+05:30 80000011-0000-fe00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 285.0718ms (791a596a)
+2022-03-18T00:01:25.6535008+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-18T00:01:25.6603136+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-18T00:01:25.6604875+05:30  [INF] Content root path: "D:\CsharpCG\Library\Library" (b5d60022)
+2022-03-18T00:01:25.7129400+05:30 80000015-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/index.html - - (ca22a1cb)
+2022-03-18T00:01:26.2717888+05:30 80000015-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/index.html - - - 200 - text/html;charset=utf-8 578.4198ms (791a596a)
+2022-03-18T00:01:26.2804672+05:30 80000026-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-03-18T00:01:26.3110920+05:30 80000026-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - - 200 11972 application/javascript;+charset=utf-8 30.4672ms (791a596a)
+2022-03-18T00:01:26.5779651+05:30 80000009-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - (ca22a1cb)
+2022-03-18T00:01:26.8151782+05:30 80000009-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 237.1582ms (791a596a)
+2022-03-18T00:04:03.1847902+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-18T00:04:03.2110497+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-18T00:04:03.2114014+05:30  [INF] Content root path: "D:\CsharpCG\Library\Library" (b5d60022)
+2022-03-18T00:04:03.2280457+05:30 8000001e-0001-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/index.html - - (ca22a1cb)
+2022-03-18T00:04:03.8637556+05:30 8000001e-0001-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/index.html - - - 200 - text/html;charset=utf-8 640.7547ms (791a596a)
+2022-03-18T00:04:03.8786538+05:30 80000034-0002-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-03-18T00:04:03.9127238+05:30 80000034-0002-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - - 200 11972 application/javascript;+charset=utf-8 33.8653ms (791a596a)
+2022-03-18T00:04:04.1548997+05:30 80000038-0002-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - (ca22a1cb)
+2022-03-18T00:04:04.4383222+05:30 80000038-0002-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 283.4798ms (791a596a)
+2022-03-18T00:06:04.9746993+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Book application/json 83 (ca22a1cb)
+2022-03-18T00:06:05.0336262+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.AddBook (Library)"' (500cc934)
+2022-03-18T00:06:05.0806261+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddBook(DomainLayer.Model.BookDetails)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:06:05.8959081+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint start (d3c1caea)
+2022-03-18T00:06:06.6844141+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:06:08.9480979+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("66"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [BookDetails] ([BookId], [Author], [BookName], [YoP])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:06:08.9806110+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint complete (5bad5f04)
+2022-03-18T00:06:08.9900637+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:06:09.0017883+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.AddBook (Library)" in 3909.8948ms (afa2e885)
+2022-03-18T00:06:09.0019573+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.AddBook (Library)"' (99874f2b)
+2022-03-18T00:06:09.0083162+05:30 8000000b-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Book application/json 83 - 200 - text/plain;+charset=utf-8 4033.6476ms (791a596a)
+2022-03-18T00:06:33.8308220+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Book application/json 75 (ca22a1cb)
+2022-03-18T00:06:33.8404501+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.AddBook (Library)"' (500cc934)
+2022-03-18T00:06:33.8409218+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddBook(DomainLayer.Model.BookDetails)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:06:33.8435432+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint start (d3c1caea)
+2022-03-18T00:06:33.8879692+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:06:33.8926937+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [BookDetails] ([BookId], [Author], [BookName], [YoP])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:06:33.8967335+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint complete (5bad5f04)
+2022-03-18T00:06:33.8976043+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:06:33.8979640+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.AddBook (Library)" in 56.9532ms (afa2e885)
+2022-03-18T00:06:33.8980081+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.AddBook (Library)"' (99874f2b)
+2022-03-18T00:06:33.8983545+05:30 8000000d-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Book application/json 75 - 200 - text/plain;+charset=utf-8 67.5142ms (791a596a)
+2022-03-18T00:07:04.9118000+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Book application/json 72 (ca22a1cb)
+2022-03-18T00:07:04.9120285+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.AddBook (Library)"' (500cc934)
+2022-03-18T00:07:04.9122149+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddBook(DomainLayer.Model.BookDetails)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:04.9159797+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint start (d3c1caea)
+2022-03-18T00:07:04.9334959+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:04.9358163+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [BookDetails] ([BookId], [Author], [BookName], [YoP])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:07:04.9366604+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Get Add Book Details endpoint complete (5bad5f04)
+2022-03-18T00:07:04.9367804+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:07:04.9369704+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.AddBook (Library)" in 24.7178ms (afa2e885)
+2022-03-18T00:07:04.9370208+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.AddBook (Library)"' (99874f2b)
+2022-03-18T00:07:04.9376328+05:30 8000000f-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Book application/json 72 - 200 - text/plain;+charset=utf-8 25.7935ms (791a596a)
+2022-03-18T00:07:11.5043808+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Book Details - - (ca22a1cb)
+2022-03-18T00:07:11.5047484+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.GetBookDetails (Library)"' (500cc934)
+2022-03-18T00:07:11.5087823+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBookDetails\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBookDetails()" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:11.5100328+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Get All Book Details endpoint start (ea67b0f0)
+2022-03-18T00:07:11.5303714+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:11.9206182+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("6"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [b].[BookId], [b].[Author], [b].[BookName], [b].[YoP]
+FROM [BookDetails] AS [b]" (0723d8ff)
+2022-03-18T00:07:11.9356791+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.BookDetails, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:07:11.9479584+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.GetBookDetails (Library)" in 439.1202ms (afa2e885)
+2022-03-18T00:07:11.9480185+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.GetBookDetails (Library)"' (99874f2b)
+2022-03-18T00:07:11.9482433+05:30 80000011-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Book Details - - - 200 - application/json;+charset=utf-8 443.8453ms (791a596a)
+2022-03-18T00:07:24.2118689+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Book Details?bookid=101 - - (ca22a1cb)
+2022-03-18T00:07:24.2120557+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:07:24.2142810+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:24.2236274+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Get One Book Details endpoint start (dacd4696)
+2022-03-18T00:07:24.2251958+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:24.3344326+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [b].[BookId], [b].[Author], [b].[BookName], [b].[YoP]
+FROM [BookDetails] AS [b]
+WHERE [b].[BookId] = @__p_0" (0723d8ff)
+2022-03-18T00:07:24.3347692+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.BookDetails"'. (605b4265)
+2022-03-18T00:07:24.3350541+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.GetBook (Library)" in 120.7284ms (afa2e885)
+2022-03-18T00:07:24.3350863+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:07:24.3356342+05:30 8000001c-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Book Details?bookid=101 - - - 200 - application/json;+charset=utf-8 123.6375ms (791a596a)
+2022-03-18T00:07:29.6151168+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Book Details?bookid=102 - - (ca22a1cb)
+2022-03-18T00:07:29.6153573+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:07:29.6154845+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:29.6160036+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Get One Book Details endpoint start (dacd4696)
+2022-03-18T00:07:29.6167417+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:29.6237811+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [b].[BookId], [b].[Author], [b].[BookName], [b].[YoP]
+FROM [BookDetails] AS [b]
+WHERE [b].[BookId] = @__p_0" (0723d8ff)
+2022-03-18T00:07:29.6241606+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.BookDetails"'. (605b4265)
+2022-03-18T00:07:29.6243498+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.GetBook (Library)" in 8.8025ms (afa2e885)
+2022-03-18T00:07:29.6243890+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:07:29.6247503+05:30 8000001e-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Book Details?bookid=102 - - - 200 - application/json;+charset=utf-8 9.5072ms (791a596a)
+2022-03-18T00:07:33.2546156+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Book Details?bookid=103 - - (ca22a1cb)
+2022-03-18T00:07:33.2548962+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:07:33.2550033+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:33.2553528+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Get One Book Details endpoint start (dacd4696)
+2022-03-18T00:07:33.2556098+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:33.2581683+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [b].[BookId], [b].[Author], [b].[BookName], [b].[YoP]
+FROM [BookDetails] AS [b]
+WHERE [b].[BookId] = @__p_0" (0723d8ff)
+2022-03-18T00:07:33.2584462+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.BookDetails"'. (605b4265)
+2022-03-18T00:07:33.2586339+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.GetBook (Library)" in 3.5949ms (afa2e885)
+2022-03-18T00:07:33.2586670+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:07:33.2589488+05:30 8000002c-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Book Details?bookid=103 - - - 200 - application/json;+charset=utf-8 4.3224ms (791a596a)
+2022-03-18T00:07:36.8654111+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Book Details?bookid=103 - - (ca22a1cb)
+2022-03-18T00:07:36.8656066+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:07:36.8657055+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T00:07:36.8662766+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Get One Book Details endpoint start (dacd4696)
+2022-03-18T00:07:36.8670491+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:07:36.8692589+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [b].[BookId], [b].[Author], [b].[BookName], [b].[YoP]
+FROM [BookDetails] AS [b]
+WHERE [b].[BookId] = @__p_0" (0723d8ff)
+2022-03-18T00:07:36.8696208+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.BookDetails"'. (605b4265)
+2022-03-18T00:07:36.8698236+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.GetBook (Library)" in 4.0157ms (afa2e885)
+2022-03-18T00:07:36.8698567+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:07:36.8701740+05:30 80000020-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Book Details?bookid=103 - - - 200 - application/json;+charset=utf-8 4.7045ms (791a596a)
+2022-03-18T00:08:15.4594477+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Person Details application/json 78 (ca22a1cb)
+2022-03-18T00:08:15.4595794+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (500cc934)
+2022-03-18T00:08:15.4615687+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddPerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddPerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:08:15.4763040+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"Microsoft.AspNetCore.Mvc.ValidationProblemDetails"'. (605b4265)
+2022-03-18T00:08:15.4880115+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.AddPerson (Library)" in 26.4007ms (afa2e885)
+2022-03-18T00:08:15.4880567+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (99874f2b)
+2022-03-18T00:08:15.4901657+05:30 80000022-0001-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Person Details application/json 78 - 400 - application/problem+json;+charset=utf-8 30.6972ms (791a596a)
+2022-03-18T00:08:51.3091237+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Person Details application/json 72 (ca22a1cb)
+2022-03-18T00:08:51.3092863+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (500cc934)
+2022-03-18T00:08:51.3098393+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddPerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddPerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:08:51.3125820+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Add Person Details endpoint start (004220e9)
+2022-03-18T00:08:51.3134719+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:08:51.3340060+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [PersonDetails] ([PersonId], [FirstName], [LastName], [Phone])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:08:51.3373450+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Add Person Details endpoint complete (14f2539d)
+2022-03-18T00:08:51.3375009+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:08:51.3377671+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.AddPerson (Library)" in 27.7805ms (afa2e885)
+2022-03-18T00:08:51.3378198+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (99874f2b)
+2022-03-18T00:08:51.3383378+05:30 80000013-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Person Details application/json 72 - 200 - text/plain;+charset=utf-8 29.1969ms (791a596a)
+2022-03-18T00:09:15.0273170+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Person Details application/json 71 (ca22a1cb)
+2022-03-18T00:09:15.0275068+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (500cc934)
+2022-03-18T00:09:15.0276108+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Route matched with "{action = \"AddPerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddPerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:09:15.0293629+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Add Person Details endpoint start (004220e9)
+2022-03-18T00:09:15.0297056+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:09:15.0316165+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [PersonDetails] ([PersonId], [FirstName], [LastName], [Phone])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:09:15.0348310+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Add Person Details endpoint complete (14f2539d)
+2022-03-18T00:09:15.0350065+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:09:15.0351774+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.AddPerson (Library)" in 7.5324ms (afa2e885)
+2022-03-18T00:09:15.0352087+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (99874f2b)
+2022-03-18T00:09:15.0356652+05:30 8000003a-0002-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Person Details application/json 71 - 200 - text/plain;+charset=utf-8 8.3416ms (791a596a)
+2022-03-18T00:09:26.5131322+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Person Details application/json 72 (ca22a1cb)
+2022-03-18T00:09:26.5132982+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (500cc934)
+2022-03-18T00:09:26.5134033+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"AddPerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddPerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:09:26.5138382+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Add Person Details endpoint start (004220e9)
+2022-03-18T00:09:26.5141668+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:09:26.5156884+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [PersonDetails] ([PersonId], [FirstName], [LastName], [Phone])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T00:09:26.5198632+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Add Person Details endpoint complete (14f2539d)
+2022-03-18T00:09:26.5200833+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:09:26.5202858+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.AddPerson (Library)" in 6.8496ms (afa2e885)
+2022-03-18T00:09:26.5204093+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (99874f2b)
+2022-03-18T00:09:26.5207067+05:30 80000010-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Person Details application/json 72 - 200 - text/plain;+charset=utf-8 7.5787ms (791a596a)
+2022-03-18T00:09:34.3956416+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Person Details - - (ca22a1cb)
+2022-03-18T00:09:34.3958635+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (500cc934)
+2022-03-18T00:09:34.3974057+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersonDetails\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersonDetails()" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:09:34.3984959+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Get All Person Details endpoint start (6eab096a)
+2022-03-18T00:09:34.4009306+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:09:34.4120002+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]" (0723d8ff)
+2022-03-18T00:09:34.4131143+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersonDetails, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:09:34.4144104+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetPersonDetails (Library)" in 16.9568ms (afa2e885)
+2022-03-18T00:09:34.4144494+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (99874f2b)
+2022-03-18T00:09:34.4147018+05:30 80000015-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Person Details - - - 200 - application/json;+charset=utf-8 19.0543ms (791a596a)
+2022-03-18T00:09:45.7457361+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Person Details - - (ca22a1cb)
+2022-03-18T00:09:45.7459937+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (500cc934)
+2022-03-18T00:09:45.7461549+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersonDetails\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersonDetails()" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:09:45.7463961+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Get All Person Details endpoint start (6eab096a)
+2022-03-18T00:09:45.7468152+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:09:45.7481776+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]" (0723d8ff)
+2022-03-18T00:09:45.7485385+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersonDetails, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:09:45.7487695+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetPersonDetails (Library)" in 2.5724ms (afa2e885)
+2022-03-18T00:09:45.7488100+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (99874f2b)
+2022-03-18T00:09:45.7491801+05:30 80000017-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Person Details - - - 200 - application/json;+charset=utf-8 3.4196ms (791a596a)
+2022-03-18T00:09:57.2370502+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10002 - - (ca22a1cb)
+2022-03-18T00:09:57.2372213+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:09:57.2391501+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:09:57.2400849+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:09:57.2462093+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:09:57.2655572+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("8"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:09:57.2658760+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.PersonDetails"'. (605b4265)
+2022-03-18T00:09:57.2660419+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 26.8552ms (afa2e885)
+2022-03-18T00:09:57.2660728+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:09:57.2663829+05:30 8000002e-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10002 - - - 200 - application/json;+charset=utf-8 29.3460ms (791a596a)
+2022-03-18T00:10:01.6584100+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - (ca22a1cb)
+2022-03-18T00:10:01.6586023+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:10:01.6587148+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:10:01.6590029+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:10:01.6594551+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:10:01.6630119+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:10:01.6634685+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.PersonDetails"'. (605b4265)
+2022-03-18T00:10:01.6636686+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 4.9175ms (afa2e885)
+2022-03-18T00:10:01.6638284+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:10:01.6640701+05:30 80000012-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - - 200 - application/json;+charset=utf-8 5.6486ms (791a596a)
+2022-03-18T00:10:07.0871637+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10000 - - (ca22a1cb)
+2022-03-18T00:10:07.0872996+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:10:07.0873859+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:10:07.0875864+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:10:07.0878619+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:10:07.0900952+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:10:07.0902167+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Get One Person Details endpoint complete (e4e206fe)
+2022-03-18T00:10:07.0930833+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:10:07.0933700+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 5.93ms (afa2e885)
+2022-03-18T00:10:07.0934050+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:10:07.0937281+05:30 80000030-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10000 - - - 400 - text/plain;+charset=utf-8 6.5511ms (791a596a)
+2022-03-18T00:10:11.2145811+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - (ca22a1cb)
+2022-03-18T00:10:11.2147808+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:10:11.2148892+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:10:11.2152263+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:10:11.2155478+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:10:11.2180715+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:10:11.2183498+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.PersonDetails"'. (605b4265)
+2022-03-18T00:10:11.2185025+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 3.5793ms (afa2e885)
+2022-03-18T00:10:11.2185401+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:10:11.2187931+05:30 80000032-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - - 200 - application/json;+charset=utf-8 4.2070ms (791a596a)
+2022-03-18T00:10:41.7577041+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 PUT https://localhost:44366/Update Person Details application/json 70 (ca22a1cb)
+2022-03-18T00:10:41.7578334+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.UpdatePerson (Library)"' (500cc934)
+2022-03-18T00:10:41.7595793+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"UpdatePerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult UpdatePerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:10:41.7614858+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Update Person Details endpoint start (794ac275)
+2022-03-18T00:10:41.7632863+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:10:41.7727164+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=["@p3='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+UPDATE [PersonDetails] SET [FirstName] = @p0, [LastName] = @p1, [Phone] = @p2
+WHERE [PersonId] = @p3;
+SELECT @@ROWCOUNT;" (0723d8ff)
+2022-03-18T00:10:41.7769687+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Update Person Details endpoint complete (e8afafae)
+2022-03-18T00:10:41.7770733+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:10:41.7772873+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.UpdatePerson (Library)" in 17.6537ms (afa2e885)
+2022-03-18T00:10:41.7773370+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.UpdatePerson (Library)"' (99874f2b)
+2022-03-18T00:10:41.7777735+05:30 80000014-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 PUT https://localhost:44366/Update Person Details application/json 70 - 200 - text/plain;+charset=utf-8 20.0464ms (791a596a)
+2022-03-18T00:10:48.6197456+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - (ca22a1cb)
+2022-03-18T00:10:48.6199144+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:10:48.6200132+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:10:48.6202724+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:10:48.6205368+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:10:48.6224306+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:10:48.6226795+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"DomainLayer.Model.PersonDetails"'. (605b4265)
+2022-03-18T00:10:48.6228588+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 2.8152ms (afa2e885)
+2022-03-18T00:10:48.6229321+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:10:48.6231526+05:30 80000016-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - - 200 - application/json;+charset=utf-8 3.3999ms (791a596a)
+2022-03-18T00:11:00.1676679+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 DELETE https://localhost:44366/Delete Person Details?personid=10001 - - (ca22a1cb)
+2022-03-18T00:11:00.1678043+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.DeletePerson (Library)"' (500cc934)
+2022-03-18T00:11:00.1694750+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"DeletePerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult DeletePerson(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:11:00.1708610+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Delete Person Details endpoint start (b6a05d8e)
+2022-03-18T00:11:00.1719433+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:11:00.1758273+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:11:00.1846100+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@p0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+DELETE FROM [PersonDetails]
+WHERE [PersonId] = @p0;
+SELECT @@ROWCOUNT;" (0723d8ff)
+2022-03-18T00:11:00.1925463+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Delete Person Details endpoint complete (b5e1efb1)
+2022-03-18T00:11:00.1926492+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:11:00.1928094+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.DeletePerson (Library)" in 23.2745ms (afa2e885)
+2022-03-18T00:11:00.1928379+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.DeletePerson (Library)"' (99874f2b)
+2022-03-18T00:11:00.1936597+05:30 80000019-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 DELETE https://localhost:44366/Delete Person Details?personid=10001 - - - 200 - text/plain;+charset=utf-8 25.6623ms (791a596a)
+2022-03-18T00:11:04.4753357+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - (ca22a1cb)
+2022-03-18T00:11:04.4755228+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (500cc934)
+2022-03-18T00:11:04.4756206+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(Int32)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:11:04.4760332+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Get One Person Details endpoint start (910447f1)
+2022-03-18T00:11:04.4764871+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:11:04.4789542+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=["@__p_0='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SELECT TOP(1) [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]
+WHERE [p].[PersonId] = @__p_0" (0723d8ff)
+2022-03-18T00:11:04.4790873+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Get One Person Details endpoint complete (e4e206fe)
+2022-03-18T00:11:04.4791724+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Executing "BadRequestObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:11:04.4793079+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetBook (Library)" in 3.6596ms (afa2e885)
+2022-03-18T00:11:04.4793309+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:11:04.4795596+05:30 80000018-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/One Person Details?personid=10001 - - - 400 - text/plain;+charset=utf-8 4.2192ms (791a596a)
+2022-03-18T00:11:07.9115118+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Person Details - - (ca22a1cb)
+2022-03-18T00:11:07.9116580+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (500cc934)
+2022-03-18T00:11:07.9117621+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersonDetails\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersonDetails()" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T00:11:07.9119852+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Get All Person Details endpoint start (6eab096a)
+2022-03-18T00:11:07.9124852+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:11:07.9138774+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]" (0723d8ff)
+2022-03-18T00:11:07.9141430+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersonDetails, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:11:07.9142965+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetPersonDetails (Library)" in 2.5077ms (afa2e885)
+2022-03-18T00:11:07.9143200+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (99874f2b)
+2022-03-18T00:11:07.9145253+05:30 80000034-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Person Details - - - 200 - application/json;+charset=utf-8 3.0079ms (791a596a)
+2022-03-18T00:13:41.6136387+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Books Assigned To Person - - (ca22a1cb)
+2022-03-18T00:13:41.6138852+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersoBookController.GetPersoBooks (Library)"' (500cc934)
+2022-03-18T00:13:41.6150519+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersoBooks\", controller = \"PersoBook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersoBooks()" on controller "Library.Controllers.PersoBookController" ("Library"). (122b2fdf)
+2022-03-18T00:13:41.6166994+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Get All Assigned Books endpoint start (991b957a)
+2022-03-18T00:13:41.6185052+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:13:41.6273733+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Slid], [p].[BookId], [p].[PersonId]
+FROM [PersoBooks] AS [p]" (0723d8ff)
+2022-03-18T00:13:41.6344114+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersoBooks, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:13:41.6355646+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersoBookController.GetPersoBooks (Library)" in 20.467ms (afa2e885)
+2022-03-18T00:13:41.6356121+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersoBookController.GetPersoBooks (Library)"' (99874f2b)
+2022-03-18T00:13:41.6357831+05:30 80000036-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Books Assigned To Person - - - 200 - application/json;+charset=utf-8 22.1260ms (791a596a)
+2022-03-18T00:14:33.6865537+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Assigning Book application/json 44 (ca22a1cb)
+2022-03-18T00:14:33.6867620+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersoBookController.AddBook (Library)"' (500cc934)
+2022-03-18T00:14:33.6887328+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddBook\", controller = \"PersoBook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddBook(DomainLayer.Model.PersoBooks)" on controller "Library.Controllers.PersoBookController" ("Library"). (122b2fdf)
+2022-03-18T00:14:33.7112575+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF]  assign Books endpoint start (330d30f8)
+2022-03-18T00:14:33.7118941+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:14:33.7236871+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("2"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [PersoBooks] ([Slid], [BookId], [PersonId])
+VALUES (@p0, @p1, @p2);" (0723d8ff)
+2022-03-18T00:14:33.7275221+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF]  assign Books endpoint complete (11f44be4)
+2022-03-18T00:14:33.7276336+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T00:14:33.7278676+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersoBookController.AddBook (Library)" in 39.0759ms (afa2e885)
+2022-03-18T00:14:33.7279173+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersoBookController.AddBook (Library)"' (99874f2b)
+2022-03-18T00:14:33.7282433+05:30 8000001b-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Assigning Book application/json 44 - 200 - text/plain;+charset=utf-8 41.6865ms (791a596a)
+2022-03-18T00:14:39.3131159+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Books Assigned To Person - - (ca22a1cb)
+2022-03-18T00:14:39.3134363+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersoBookController.GetPersoBooks (Library)"' (500cc934)
+2022-03-18T00:14:39.3135452+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersoBooks\", controller = \"PersoBook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersoBooks()" on controller "Library.Controllers.PersoBookController" ("Library"). (122b2fdf)
+2022-03-18T00:14:39.3145677+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Get All Assigned Books endpoint start (991b957a)
+2022-03-18T00:14:39.3151065+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:14:39.3159400+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Slid], [p].[BookId], [p].[PersonId]
+FROM [PersoBooks] AS [p]" (0723d8ff)
+2022-03-18T00:14:39.3162585+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersoBooks, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:14:39.3164461+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersoBookController.GetPersoBooks (Library)" in 2.8708ms (afa2e885)
+2022-03-18T00:14:39.3164730+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersoBookController.GetPersoBooks (Library)"' (99874f2b)
+2022-03-18T00:14:39.3167177+05:30 8000001a-0001-f900-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Books Assigned To Person - - - 200 - application/json;+charset=utf-8 3.5774ms (791a596a)
+2022-03-18T00:14:53.4740560+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/History Of Book?bookid=101 - - (ca22a1cb)
+2022-03-18T00:14:53.4743840+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersoBookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:14:53.4761623+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"PersoBook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(System.String)" on controller "Library.Controllers.PersoBookController" ("Library"). (122b2fdf)
+2022-03-18T00:14:53.4780447+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Get Books endpoint start (1de2587a)
+2022-03-18T00:14:53.4836101+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:14:53.5055296+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Executed DbCommand ("6"ms) [Parameters=["@__bookid_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Slid], [p].[BookId], [p].[PersonId]
+FROM [PersoBooks] AS [p]
+WHERE [p].[BookId] = @__bookid_0" (0723d8ff)
+2022-03-18T00:14:53.5057301+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersoBooks, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:14:53.5058577+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersoBookController.GetBook (Library)" in 29.6519ms (afa2e885)
+2022-03-18T00:14:53.5058848+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersoBookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:14:53.5060517+05:30 8000003e-0002-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/History Of Book?bookid=101 - - - 200 - application/json;+charset=utf-8 31.9904ms (791a596a)
+2022-03-18T00:15:16.5894739+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/Person's Current Book ?personid=10002 - - (ca22a1cb)
+2022-03-18T00:15:16.5897258+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.CurrentbookController.GetCurrentBook (Library)"' (500cc934)
+2022-03-18T00:15:16.5918565+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Route matched with "{action = \"GetCurrentBook\", controller = \"Currentbook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetCurrentBook(System.String)" on controller "Library.Controllers.CurrentbookController" ("Library"). (122b2fdf)
+2022-03-18T00:15:16.5940944+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Get Current Book  endpoint start (c5a6ae96)
+2022-03-18T00:15:16.5963259+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:15:16.6083479+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Executed DbCommand ("5"ms) [Parameters=["@__personid_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Slid], [p].[BookId], [p].[PersonId]
+FROM [PersoBooks] AS [p]
+WHERE [p].[PersonId] = @__personid_0" (0723d8ff)
+2022-03-18T00:15:16.6085824+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersoBooks, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:15:16.6087306+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.CurrentbookController.GetCurrentBook (Library)" in 16.8295ms (afa2e885)
+2022-03-18T00:15:16.6087557+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.CurrentbookController.GetCurrentBook (Library)"' (99874f2b)
+2022-03-18T00:15:16.6090889+05:30 8000001d-0003-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/Person's Current Book ?personid=10002 - - - 200 - application/json;+charset=utf-8 19.6245ms (791a596a)
+2022-03-18T00:15:37.6080825+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/History Of Book?bookid=10002 - - (ca22a1cb)
+2022-03-18T00:15:37.6082770+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersoBookController.GetBook (Library)"' (500cc934)
+2022-03-18T00:15:37.6083778+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Route matched with "{action = \"GetBook\", controller = \"PersoBook\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetBook(System.String)" on controller "Library.Controllers.PersoBookController" ("Library"). (122b2fdf)
+2022-03-18T00:15:37.6086501+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Get Books endpoint start (1de2587a)
+2022-03-18T00:15:37.6090225+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T00:15:37.6122051+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Executed DbCommand ("1"ms) [Parameters=["@__bookid_0='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[Slid], [p].[BookId], [p].[PersonId]
+FROM [PersoBooks] AS [p]
+WHERE [p].[BookId] = @__bookid_0" (0723d8ff)
+2022-03-18T00:15:37.6124497+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersoBooks, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T00:15:37.6126350+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersoBookController.GetBook (Library)" in 4.2082ms (afa2e885)
+2022-03-18T00:15:37.6126610+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersoBookController.GetBook (Library)"' (99874f2b)
+2022-03-18T00:15:37.6128724+05:30 80000040-0002-f800-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/History Of Book?bookid=10002 - - - 200 - application/json;+charset=utf-8 4.7793ms (791a596a)
+2022-03-18T08:02:09.5244852+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-18T08:02:09.5654959+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-18T08:02:09.5702906+05:30  [INF] Content root path: "C:\Users\hp\Documents\Library-local1\Library" (b5d60022)
+2022-03-18T08:02:09.6936542+05:30 80000065-0002-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/index.html - - (ca22a1cb)
+2022-03-18T08:02:10.8323137+05:30 80000065-0002-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/index.html - - - 200 - text/html;charset=utf-8 1144.5988ms (791a596a)
+2022-03-18T08:02:10.8626776+05:30 80000067-0002-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-03-18T08:02:10.9143772+05:30 80000067-0002-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - - 200 11972 application/javascript;+charset=utf-8 51.0654ms (791a596a)
+2022-03-18T08:02:11.3745188+05:30 80000028-0001-f600-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - (ca22a1cb)
+2022-03-18T08:02:11.6051057+05:30 80000028-0001-f600-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 230.6397ms (791a596a)
+2022-03-18T08:02:58.5115048+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Book application/json 54 (ca22a1cb)
+2022-03-18T08:02:58.5901440+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.BookController.AddBook (Library)"' (500cc934)
+2022-03-18T08:02:58.6609470+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddBook\", controller = \"Book\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddBook(DomainLayer.Model.BookDetails)" on controller "Library.Controllers.BookController" ("Library"). (122b2fdf)
+2022-03-18T08:02:59.8234235+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Get Add Book Details endpoint start (d3c1caea)
+2022-03-18T08:03:00.7916118+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T08:03:02.8480792+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Executed DbCommand ("61"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (DbType = Int32)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [BookDetails] ([BookId], [Author], [BookName], [YoP])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T08:03:02.8906381+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Get Add Book Details endpoint complete (5bad5f04)
+2022-03-18T08:03:02.9041744+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T08:03:02.9168110+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.BookController.AddBook (Library)" in 4244.7187ms (afa2e885)
+2022-03-18T08:03:02.9169575+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.BookController.AddBook (Library)"' (99874f2b)
+2022-03-18T08:03:02.9252691+05:30 8000000c-0000-fa00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Book application/json 54 - 200 - text/plain;+charset=utf-8 4413.6982ms (791a596a)
+2022-03-18T08:26:30.0617765+05:30  [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T08:26:45.2267134+05:30  [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T08:26:45.9351695+05:30  [INF] Executed DbCommand ("49"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-03-18T08:26:45.9978124+05:30  [INF] Executed DbCommand ("36"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-03-18T08:26:46.0013479+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-03-18T08:26:46.1814535+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);" (0723d8ff)
+2022-03-18T08:26:46.1840509+05:30  [INF] Executed DbCommand ("0"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT 1" (0723d8ff)
+2022-03-18T08:26:46.1865603+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT OBJECT_ID(N'[__EFMigrationsHistory]');" (0723d8ff)
+2022-03-18T08:26:46.1915592+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];" (0723d8ff)
+2022-03-18T08:26:46.2206114+05:30  [INF] Applying migration '"20220318025630_init"'. (0e2ac64d)
+2022-03-18T08:26:46.2616418+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [BookDetails] (
+    [BookId] int NOT NULL IDENTITY,
+    [BookName] nvarchar(max) NOT NULL,
+    [Author] nvarchar(max) NOT NULL,
+    [YoP] int NOT NULL,
+    CONSTRAINT [PK_BookDetails] PRIMARY KEY ([BookId])
+);" (0723d8ff)
+2022-03-18T08:26:46.2635501+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PersoBooks] (
+    [Slid] int NOT NULL IDENTITY,
+    [BookId] nvarchar(max) NULL,
+    [PersonId] nvarchar(max) NULL,
+    CONSTRAINT [PK_PersoBooks] PRIMARY KEY ([Slid])
+);" (0723d8ff)
+2022-03-18T08:26:46.2660260+05:30  [INF] Executed DbCommand ("2"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""CREATE TABLE [PersonDetails] (
+    [PersonId] int NOT NULL IDENTITY,
+    [FirstName] nvarchar(max) NULL,
+    [LastName] nvarchar(max) NULL,
+    [Phone] nvarchar(max) NULL,
+    CONSTRAINT [PK_PersonDetails] PRIMARY KEY ([PersonId])
+);" (0723d8ff)
+2022-03-18T08:26:46.2693423+05:30  [INF] Executed DbCommand ("3"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20220318025630_init', N'5.0.15');" (0723d8ff)
+2022-03-18T08:29:08.8648900+05:30  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2022-03-18T08:29:08.9216999+05:30  [INF] Hosting environment: "Development" (c3307c92)
+2022-03-18T08:29:08.9250950+05:30  [INF] Content root path: "C:\Users\hp\Documents\Library-local1\Library" (b5d60022)
+2022-03-18T08:29:08.9732962+05:30 8000000a-0000-f600-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/index.html - - (ca22a1cb)
+2022-03-18T08:29:09.6627404+05:30 8000000a-0000-f600-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/index.html - - - 200 - text/html;charset=utf-8 686.8138ms (791a596a)
+2022-03-18T08:29:09.6660956+05:30 8000001e-0003-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - (ca22a1cb)
+2022-03-18T08:29:09.8896145+05:30 8000001e-0003-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/_framework/aspnetcore-browser-refresh.js - - - 200 11972 application/javascript;+charset=utf-8 226.8319ms (791a596a)
+2022-03-18T08:29:10.3471764+05:30 80000023-0001-fb00-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - (ca22a1cb)
+2022-03-18T08:29:10.7628176+05:30 80000023-0001-fb00-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 415.6008ms (791a596a)
+2022-03-18T08:29:39.7255384+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Request starting HTTP/2 POST https://localhost:44366/Insert Person Details application/json 75 (ca22a1cb)
+2022-03-18T08:29:39.8202332+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (500cc934)
+2022-03-18T08:29:39.8877925+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Route matched with "{action = \"AddPerson\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult AddPerson(DomainLayer.Model.PersonDetails)" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T08:29:40.2355565+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Add Person Details endpoint start (004220e9)
+2022-03-18T08:29:41.4007787+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T08:29:42.4340971+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Executed DbCommand ("62"ms) [Parameters=["@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)"], CommandType='Text', CommandTimeout='30']"
+""SET NOCOUNT ON;
+INSERT INTO [PersonDetails] ([PersonId], [FirstName], [LastName], [Phone])
+VALUES (@p0, @p1, @p2, @p3);" (0723d8ff)
+2022-03-18T08:29:42.4835967+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Add Person Details endpoint complete (14f2539d)
+2022-03-18T08:29:42.4977053+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.String"'. (605b4265)
+2022-03-18T08:29:42.5118181+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.AddPerson (Library)" in 2611.2706ms (afa2e885)
+2022-03-18T08:29:42.5119306+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.AddPerson (Library)"' (99874f2b)
+2022-03-18T08:29:42.5206266+05:30 80000020-0003-fd00-b63f-84710c7967bb [INF] Request finished HTTP/2 POST https://localhost:44366/Insert Person Details application/json 75 - 200 - text/plain;+charset=utf-8 2795.0652ms (791a596a)
+2022-03-18T08:29:54.7139965+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Request starting HTTP/2 GET https://localhost:44366/All Person Details - - (ca22a1cb)
+2022-03-18T08:29:54.7274823+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Executing endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (500cc934)
+2022-03-18T08:29:54.7314623+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Route matched with "{action = \"GetPersonDetails\", controller = \"Person\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.ActionResult GetPersonDetails()" on controller "Library.Controllers.PersonController" ("Library"). (122b2fdf)
+2022-03-18T08:29:54.7455223+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Get All Person Details endpoint start (6eab096a)
+2022-03-18T08:29:54.8088150+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Entity Framework Core "5.0.15" initialized '"ApplicationContext"' using provider '"Microsoft.EntityFrameworkCore.SqlServer"' with options: "None" (9958f5bb)
+2022-03-18T08:29:55.2784774+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Executed DbCommand ("8"ms) [Parameters=[""], CommandType='Text', CommandTimeout='30']"
+""SELECT [p].[PersonId], [p].[FirstName], [p].[LastName], [p].[Phone]
+FROM [PersonDetails] AS [p]" (0723d8ff)
+2022-03-18T08:29:55.3068816+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Executing "OkObjectResult", writing value of type '"System.Collections.Generic.List`1[[DomainLayer.Model.PersonDetails, DomainLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]"'. (605b4265)
+2022-03-18T08:29:55.3267275+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Executed action "Library.Controllers.PersonController.GetPersonDetails (Library)" in 595.1412ms (afa2e885)
+2022-03-18T08:29:55.3268033+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Executed endpoint '"Library.Controllers.PersonController.GetPersonDetails (Library)"' (99874f2b)
+2022-03-18T08:29:55.3279164+05:30 8000000e-0000-f500-b63f-84710c7967bb [INF] Request finished HTTP/2 GET https://localhost:44366/All Person Details - - - 200 - application/json;+charset=utf-8 614.1811ms (791a596a)
